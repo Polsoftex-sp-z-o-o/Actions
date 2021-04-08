@@ -1,0 +1,7 @@
+name: "Tests"
+description: "Runs unit tests thorough gradle"
+author: "Atloas"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
