@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  test:
+  buildAndPush:
     runs-on: ubuntu-latest
 
     steps:
