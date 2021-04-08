@@ -1,4 +1,4 @@
 #!/bin/sh -l
 
-chmod -x ./gradlew
+chmod +x ./gradlew
 ./gradlew test
